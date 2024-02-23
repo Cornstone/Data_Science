@@ -1,10 +1,3 @@
-# ************ T21 - Capstone Project - NLP Applications ************
-
-
-print("-------------T21 - Capstone Project - NLP Applications ---------------")
-
-
-
 # ************ Step 1 - Import the required library ************ 
 
 
