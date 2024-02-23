@@ -1,5 +1,15 @@
-NLP Application
-Sentiment Analysis
+Project 1 - Natural Language Processing - garden.py
+
+Using spaCy for carrying out NLP tasks to test garden sentences.
+To see how accurately the trained model can pick up the true meaning of the garden sentences.
+
+
+Project 2 - NLP - Semantic Similarity - semantic.py
+Checking the similarity of sentences from movie reviews 
+and return a movie recommendation based on the similarity of the review sentence of the viewer.
+
+
+Project 3 - NLP Application - Sentiment Analysis.py
 5. Write a brief report or summary for the NLP application: Sentiment analysis:
 5.1. A description of the dataset used. (Step 1)
 The dataset that is being used is based on the website - Consumer Reviews of Amazon Products (kaggle.com) :
