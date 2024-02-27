@@ -11,9 +11,9 @@ nlp = spacy.load('en_core_web_sm')
 gardenpathSentences = ['The complex houses married and single soldiers and their families.', 'While I was surfing Reddit went down.']
 
 # Add 3 required sentences to the same list.
-gardenpathSentences += ['Mary gave the child a Band-Aid.', 'That Jill is never here hurts.', 'The cotton clothing is made of grows in Mississippi.']
-
-
+extension = ['Mary gave the child a Band-Aid.', 'That Jill is never here hurts.', 'The cotton clothing is made of grows in Mississippi.']
+for sent in extension:
+    gardenpathSentences.append(sent)
 
 # Tokenisation------------------------------------------------------------------
 
