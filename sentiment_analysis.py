@@ -231,4 +231,10 @@ plt.show()
 # Project inspired by https://www.youtube.com/watch?v=QpzMWQvxXWk
 # Python Sentiment Analysis Project with NLTK and Transformers. Classify Amazon Reviews!!
 
+# Things to improve: note:
+# Exploring advanced techniques: 
+# 1. Named Entity Recognition (NER)
+# 2. sentiment analysis using deep learning models like BERT or GPT
+# 3. topic modeling with algorithms: Latent Dirichlet Allocation (LDA)
+
 # ************ End of code ************
