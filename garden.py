@@ -1,6 +1,3 @@
-# ************ T19 - Practical Task 1 ************
-
-
 # ======= Working with the spaCy ===== #
 # Import the required spaCy library
 # Load the English pipeline-trained model

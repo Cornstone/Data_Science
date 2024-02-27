@@ -1,10 +1,4 @@
-# ************ T20 - Practical Task 1 ************
-
-
-
-print("-------------T20 - Practical Task 1---------------")
-
-
+# Part 1 - Find similarity between words.
 
 # ======= Working with the spaCy ===== #
 # Import the required spaCy library
@@ -111,8 +105,8 @@ for token1 in tokens_1:
 print('\n')
 
 
+# Part 2 - Find a movie recommandation based on reviews.
 
-# ************ T20 - Practical Task 2 ************
 
 import spacy  # importing spacy
 nlp = spacy.load('en_core_web_md') # Load the English pipeline-trained model (medium size)
